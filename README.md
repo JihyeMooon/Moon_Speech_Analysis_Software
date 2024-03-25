@@ -1,4 +1,4 @@
-# Speech-Analysis-Software
+# Speech Analysis Software
 
 ## Software Details
 ![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/cb08eed3-f159-4222-a1e8-1cab190556fd)
@@ -7,8 +7,7 @@ In 2015, I developed **real-time speech disorder detection software using C++ an
 
 This program **detects speech endpoints using energy/zero crossing rate**, computes various speech features, including Jitter, Shimmer, and high-order statistics, and detects pathological speeches based on a pre-trained decision tree model **(a simple machine learning model!)**.
 
-## Code Share
-For now, this GitHub repository provides C++ source code (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**. 
+For now, I share C++ codes (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**. 
 If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
 
 ## Reference
