@@ -12,4 +12,5 @@ For now, this GitHub repository provides C++ source code for **the real-time spe
 
 ## Reference
 ![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/c09f0f46-b6c1-4d15-9de5-77448457cca1)
-My Paper in 2015: https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices
+
+My Paper published in 2015 is here: https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices (Korean Language)
