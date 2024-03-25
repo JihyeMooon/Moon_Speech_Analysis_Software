@@ -8,9 +8,10 @@ In 2015, I developed **real-time speech disorder detection software using C++ an
 This program **detects speech endpoints using energy/zero crossing rate**, computes various speech features, including Jitter, Shimmer, and high-order statistics, and detects pathological speeches based on a pre-trained decision tree model **(a simple machine learning model!)**.
 
 ## Code Share
-For now, this GitHub repository provides C++ source code for **the real-time speech data recording and speech end-point detection parts**. It is compatible with MFC. If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
+For now, this GitHub repository provides C++ source code (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**. 
+If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
 
 ## Reference
 ![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/c09f0f46-b6c1-4d15-9de5-77448457cca1)
 
-My Paper published in 2015 is here: https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices (Korean Language)
+My paper published in 2015 is at https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices (Korean Language)
