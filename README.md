@@ -13,4 +13,4 @@ If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
 ## Reference
 ![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/c09f0f46-b6c1-4d15-9de5-77448457cca1)
 
-My paper published in 2015 is at https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices (Korean Language)
+My paper published in 2015 is at [Link](https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices).
