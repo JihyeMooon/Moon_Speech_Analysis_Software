@@ -1,16 +1,16 @@
-# Speech Analysis Software
+# Real-Time Speech Analysis and Pathological Speech Detection Software
 
-## Software Details
-![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/cb08eed3-f159-4222-a1e8-1cab190556fd)
-
-In 2015, I developed **real-time speech disorder detection software using C++ and the Microsoft Foundation Class Library (MFC)**. This program provides real-time speech data recording, voice activity detection (also called speech end-point detection), and pathological speech detection. It also works for importing audio data. 
-
-This program **detects speech endpoints using energy/zero crossing rate**, computes various speech features, including Jitter, Shimmer, and high-order statistics, and detects pathological speeches based on a pre-trained decision tree model **(a simple machine learning model!)**.
-
-For now, I share C++ codes (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**. 
-If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
-
-## Reference
+## Introduction
 ![image](https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/c09f0f46-b6c1-4d15-9de5-77448457cca1)
 
-My paper published in 2015 is at [Link](https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices).
+In 2015, I developed **a real-time pathological speech detection software using C++ and the Microsoft Foundation Class Library (MFC)**. This program provides real-time speech data recording, voice activity detection (also called speech end-point detection), pathological speech detection, and the ability to import external audio data.
+ 
+<img src="https://github.com/JihyeMooon/Speech-Analysis-Software/assets/112595759/911ba534-e683-456a-823f-71d0f329a0f3"  width="60%" height="30%">
+
+This software **detects speech endpoints using energy/zero crossing rate**, computes various speech features, including Jitter, Shimmer, and high-order statistics, and detects pathological speeches based on a pre-trained decision tree model **(a simple machine learning model!)**. The accuracy in detecting patholocial speeches was obtained as **83.11%**.
+
+The details for the software were published as a peer-reviwed paper at [a Korean Journal](https://www.researchgate.net/publication/292670555_Development_of_medicalelectrical_convergence_software_for_classification_between_normal_and_pathological_voices) in 2015.
+
+For now, this GitHub repository releases C++ code (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**.
+If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
+
