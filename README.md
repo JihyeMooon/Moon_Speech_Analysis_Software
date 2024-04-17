@@ -14,3 +14,9 @@ The details for the software were published as a peer-reviwed paper at [a Korean
 For now, this GitHub repository releases C++ code (compatible with MFC) for **only the real-time speech data recording and speech end-point detection parts**.
 If you have any questions, please contact me at **husky.jihye.moon@gmail.com**.
 
+## Other Voice Activity Detection Codes
+For additional voice activity detection algorithms, I also implemented three based on Autocorrelation Function (ACF), Average Magnitude Difference Function (AMDF), and Higher Order Differential Energy Operators (HODEO) respectively. Results for other voice activity detection methods are displayed below.
+
+<img src="https://github.com/JihyeMooon/Moon_Voice_Activity_Detection/assets/112595759/1e817bba-94b9-4870-9005-9931b887fae2"   width="60%" height="30%">
+
+**ACF, AMDF, and HODEO-based voice activity detection codes are avablible at [Link](https://github.com/JihyeMooon/Moon_Voice_Activity_Detection)!**
